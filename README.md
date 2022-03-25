@@ -1,6 +1,6 @@
 # Producer Consumer
 
-![C](https://img.shields.io/badge/c-%2300599C.svg)
+![C](https://img.shields.io/github/languages/top/stopasola/producer-consumer)
 
 ## Introduction
 
